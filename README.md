@@ -19,3 +19,5 @@
 ![August GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustMat&theme=radical&icons=true)
 
 ## Minhas Contribuições
+
+![Snake animation](https://github.com/AugustMat/AugustMat/blob/output/github-contribution-grid-snake.svg)
