@@ -20,4 +20,3 @@
 
 ## Minhas Contribuições
 
-![Snake animation](https://github.com/AugustMat/AugustMat/blob/output/github-contribution-grid-snake.svg)
