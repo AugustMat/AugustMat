@@ -1,5 +1,9 @@
 # AugustMat
 
+- 💻 Front-End Dev 
+- 🔍 UI / UX Design
+- I love the way we can change the User Experience through beautiful and intuitive Front-end work. I love the way we can make users happier through UI made with concern for good, intuitive enhanced usability. I want to make a better experience of users when they open your screens and understand exactly how they can use a system or app. I don't want to be just a Front-end dev or UI | UX professional, but i want to be **THE MAN** how will change the way people use and think. That's me. That's Augusto haha 😁
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/august-mat/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@heyaugustt/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augustmat/) 
